@@ -13,7 +13,7 @@ import RPi.GPIO as GPIO
 
 # change this value based on which GPIO port the amplifier or other devices are connected to
 # Flexible Pinout
-AMP_GPIO = 26
+AMP_GPIO = 27
 # Classic Pinout
 # AMP_GPIO = 23
 
